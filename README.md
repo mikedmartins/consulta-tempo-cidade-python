@@ -9,3 +9,5 @@ Código simples e de fácil entendimento para quem estiver estudando como tratar
 <b>Arquivo: tempo_main.py</b>
 	
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
+<hr>
