@@ -1,6 +1,6 @@
 <h1 align="center">PROJETOS EM PYTHON</h1>
 
-<h3>Verifica Tempo na Cidade</h3>
+<h3>Vonsulta Tempo na Cidade</h3>
 
 :hammer: Funcionalidades do projeto- `Funcionalidade 1`: Sistema para receber o nome da cidade e informar o tempo e a temperatura atual.
 <br><br>
